@@ -7,6 +7,7 @@ Learning PHP and Laravel in a "Study Together" method
 
 # # resources
 - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
+- [learn.php.md](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8)
 
 # # contributors
 - [b1tranger](https://github.com/b1tranger) &rarr; [Repo](https://github.com/b1tranger/learning-php-laravel) (Parent)
