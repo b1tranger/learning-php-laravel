@@ -1,3 +1,4 @@
+  > related repo [Programming-Records](https://github.com/b1tranger/Programming-Records/)
 # # learning-php-laravel
 Learning PHP and Laravel in a "Study Together" method
 
