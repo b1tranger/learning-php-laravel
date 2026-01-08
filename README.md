@@ -11,5 +11,7 @@ Learning PHP and Laravel in a "Study Together" method
 
 <br><br><br><br><br><br><br><br><br>
 
+<hr>
+
 ### # testing
 - test text 1
