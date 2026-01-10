@@ -5,6 +5,7 @@ Learning PHP and Laravel in a "Study Together" method
 # # purpose
 - Starting / Revising PHP and then moving to Laravel framework
 - Solving problems (online judge) using PHP CLI
+- Learning a bit of Wordpress, since it's related and its *Market Demand*
 
 # # resources
 - setup: [BoostMyTool/How to Run PHP Using Visual Studio Code](https://youtu.be/Ry8tRRfxxf4)
