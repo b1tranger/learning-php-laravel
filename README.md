@@ -11,7 +11,9 @@ Learning PHP and Laravel in a "Study Together" method
 - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
 - [learn.php.md](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8)
 - [PHP Roadmap (AI gen)](https://github.com/b1tranger/learning-php-laravel/blob/main/PHP/Day%201/roadmap-php.md) &rarr; better https://roadmap.sh/php &larr; https://roadmap.sh/laravel
-<img width="600" height="538" alt="image" src="https://github.com/user-attachments/assets/acc60906-c53e-48f4-9c1b-1fe557fa9207" />
+<img width="600" height="538" alt="image" src="https://github.com/user-attachments/assets/acc60906-c53e-48f4-9c1b-1fe557fa9207" /> <br>
+- https://roadmap.sh/wordpress <br> <img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/cc3e7575-0cba-43fa-8f3c-9d8cb00ac617" />
+
 
 
 # # contributors
