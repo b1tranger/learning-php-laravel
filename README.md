@@ -6,6 +6,7 @@ Learning PHP and Laravel in a "Study Together" method
 - Starting / Revising PHP and then moving to Laravel framework
 - Solving problems (online judge) using PHP CLI
 - Learning a bit of Wordpress, since it's related and its *Market Demand*
+- https://www.phpbb.com/ | phpBB is a free flat-forum bulletin board software solution 
 
 # # resources
 - setup: [BoostMyTool/How to Run PHP Using Visual Studio Code](https://youtu.be/Ry8tRRfxxf4)
