@@ -9,6 +9,7 @@ Learning PHP and Laravel in a "Study Together" method
 - https://www.phpbb.com/ | phpBB is a free flat-forum bulletin board software solution 
 
 # # resources
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - setup: [BoostMyTool/How to Run PHP Using Visual Studio Code](https://youtu.be/Ry8tRRfxxf4)
 - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
 - [learn.php.md](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8)
